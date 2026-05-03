@@ -1,0 +1,16 @@
+institution,domain,region,license_type,notes
+IISc Bangalore,etd.iisc.ac.in,Global South,CC-BY,Indian Institute of Science
+Shodhganga,shodhganga.inflibnet.ac.in,Global South,CC-BY-NC,India national ETD repository >600k theses
+IIT Delhi,etd.iitd.ac.in,Global South,Institutional,Dynamic URL portal; login required
+IIT Bombay,etd.iitb.ac.in,Global South,Institutional,Dynamic URL portal
+IIT Madras,etd.iitm.ac.in,Global South,Institutional,Dynamic URL portal
+MIT DSpace,dspace.mit.edu,Global North,CC-BY,Massachusetts Institute of Technology
+Virginia Tech VTechWorks,vtechworks.lib.vt.edu,Global North,CC-BY,Virginia Polytechnic Institute
+UCLA eScholarship,escholarship.org,Global North,Mixed,University of California system
+Univ. of Michigan Deep Blue,deepblue.lib.umich.edu,Global North,CC-BY,University of Michigan
+Australian National Univ.,openresearch-repository.anu.edu.au,Global North,CC-BY,ANU Open Research
+EThOS,ethos.bl.uk,Global North,Subscription,British Library; restricted access
+DART Europe,dart-europe.org,Global North,CC-BY,European ETD portal
+NDLTD Union Catalog,union.ndltd.org,Global,Mixed,NDLTD aggregator
+OATD,oatd.org,Global,Mixed,Open Access Theses and Dissertations
+ProQuest Dissertations,proquest.com/pqdtglobal,Commercial,Subscription,Commercial aggregator

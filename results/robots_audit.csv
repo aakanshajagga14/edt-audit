@@ -1,0 +1,16 @@
+institution,domain,robots_fetched,blocks_all,blocks_ccbot,allows_ccbot,interpretation,error
+IISc Bangalore,etd.iisc.ac.in,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
+Shodhganga,shodhganga.inflibnet.ac.in,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
+IIT Delhi,etd.iitd.ac.in,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
+IIT Bombay,etd.iitb.ac.in,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
+IIT Madras,etd.iitm.ac.in,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
+MIT DSpace,dspace.mit.edu,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
+Virginia Tech VTechWorks,vtechworks.lib.vt.edu,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
+UCLA eScholarship,escholarship.org,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
+Univ. of Michigan Deep Blue,deepblue.lib.umich.edu,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
+Australian National Univ.,openresearch-repository.anu.edu.au,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
+EThOS,ethos.bl.uk,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
+DART Europe,dart-europe.org,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
+NDLTD Union Catalog,union.ndltd.org,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
+OATD,oatd.org,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
+ProQuest Dissertations,proquest.com/pqdtglobal,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
