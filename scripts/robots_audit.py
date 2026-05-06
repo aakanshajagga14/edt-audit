@@ -21,7 +21,6 @@ import time
 import requests
 import pandas as pd
 from tqdm import tqdm
-
 INSTITUTIONS_CSV = "data/institutions.csv"
 OUTPUT_CSV       = "results/robots_audit.csv"
 REQUEST_DELAY    = 1.0
