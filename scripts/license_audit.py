@@ -17,7 +17,6 @@ Output:
 
 import os
 import pandas as pd
-
 INSTITUTIONS_CSV = "data/institutions.csv"
 OUTPUT_CSV       = "results/license_gap.csv"
 
